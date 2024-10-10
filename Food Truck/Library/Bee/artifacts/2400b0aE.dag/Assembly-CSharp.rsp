@@ -352,6 +352,7 @@
 -analyzer:"/home/samrudh/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/home/samrudh/Unity/Hub/Editor/2022.3.50f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/Player.cs"
+"Assets/Scripts/PlayerAnimator.cs"
 -langversion:9.0
 /deterministic
 /optimize+
